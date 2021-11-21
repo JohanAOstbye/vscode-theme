@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Theme Screenshot](2021-11-21_19-58.png)
+![Theme Screenshot](screen.png)
 
 ## Installation
 
