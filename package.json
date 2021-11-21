@@ -1,0 +1,42 @@
+{
+  "name": "goodvibe",
+  "displayName": "Goodvibe",
+  "description": "Color scheme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "claudioc",
+  "license": "CC0-1.0",
+  "author": {
+    "name": "Johan Augustostbye",
+    "url": "http://github.com/JohanAOstbye"
+  },
+  "keywords": [
+    "visual studio code",
+    "themes",
+    "color theme",
+    "theming",
+    "extension"
+  ],
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Just a dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/just-a-dark-theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanAOstbye/vscode-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohanAOstbye/vscode-theme/issues"
+  },
+  "homepage": "https://github.com/JohanAOstbye/vscode-theme#readme"
+}
