@@ -1,12 +1,12 @@
 {
-  "name": "goodvibe",
-  "displayName": "Goodvibe",
+  "name": "just-a-black-theme",
+  "displayName": "Justa black theme",
   "description": "Color scheme for Visual Studio Code",
-  "version": "0.0.1",
-  "publisher": "claudioc",
+  "version": "1.0.0",
+  "publisher": "JohanAugustOestbye",
   "license": "CC0-1.0",
   "author": {
-    "name": "Johan Augustostbye",
+    "name": "Johan August Østbye",
     "url": "http://github.com/JohanAOstbye"
   },
   "keywords": [
